@@ -12,7 +12,8 @@ Bundle 'gmarik/vundle'
 " Code Completions
 "------------------
 "Bundle 'Shougo/neocomplcache'
-Bundle 'Shougo/neocomplete'
+"Bundle 'Shougo/neocomplete'
+Bundle 'Rip-Rip/clang_complete'
 "Bundle 'mattn/emmet-vim'
 Bundle 'Raimondi/delimitMate'
 Bundle 'ervandew/supertab'
