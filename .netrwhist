@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/media/work/workplace/ds03h/src/kernel/linux/v3.18/Documentation/devicetree/bindings/clock'
+let g:netrw_dirhist_2='/media/work/workplace/ds03h/src/kernel/linux/v3.18/drivers/mtd/spi-nor'
+let g:netrw_dirhist_3='/home/ubuntu/workplace/sv-g5-r1-system/board-support/linux/drivers'
+let g:netrw_dirhist_4='/media/work/workplace/ds03h/src/kernel/linux/v3.18/drivers'
+let g:netrw_dirhist_5='/home/ubuntu'
