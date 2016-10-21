@@ -358,7 +358,7 @@ endif
 "
 "设置注释的颜色
 "highlight Comment ctermfg =green
-hi  Comment ctermfg=45
+hi  Comment ctermfg=250
 " ctermbg=235
 "设置类型的颜色
 hi Type ctermfg =yellow
